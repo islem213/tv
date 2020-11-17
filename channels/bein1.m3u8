@@ -1,7 +1,2 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:3
-
-#EXTINF:10,
+#EXTINF:-1, BeIN Sport 1
 http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21663.ts
-#EXT-X-ENDLIST
